@@ -7,13 +7,13 @@
   "customTokensStr": "",
   "defaultImageSize": "",
   "defaultImageSizeDimension": "width",
-  "duplicateNameSeparator": " ",
-  "emptyAttachmentFolderBehavior": "DeleteWithEmptyParents",
+  "duplicateNameSeparator": "-",
+  "emptyFolderBehavior": "DeleteWithEmptyParents",
   "excludePaths": [],
   "excludePathsFromAttachmentCollecting": [],
   "generatedAttachmentFileName": "file-${date:{momentJsFormat:'YYYYMMDDHHmmssSSS'}}",
   "includePaths": [],
-  "jpegQuality": 0.8,
+  "jpegQuality": 1,
   "markdownUrlFormat": "assets/${noteFileName}/${generatedAttachmentFileName}",
   "moveAttachmentToProperFolderUsedByMultipleNotesMode": "CopyAll",
   "renamedAttachmentFileName": "",
@@ -28,5 +28,5 @@
   "treatAsAttachmentExtensions": [
     ".excalidraw.md"
   ],
-  "version": ""
+  "version": "10.3.1"
 }
