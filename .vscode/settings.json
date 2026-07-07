@@ -1,0 +1,7 @@
+{
+  "markdown.copyFiles.destination": {
+    "**/*.md": "${documentDirName}/assets/${documentBaseName}/${fileName}"
+  },
+  "editor.fontFamily": "'Sarasa Mono SC', Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true
+}
